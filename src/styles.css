@@ -23,7 +23,7 @@ p {
 .hero {
   background: var(--primary-background);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -147,9 +147,6 @@ footer .contact-box p {
   }
   h4 {
     font-size: 26px;
-  }
-  .hero {
-    padding: 80px 20px;
   }
   .content {
     text-align: center;
